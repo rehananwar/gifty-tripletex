@@ -1,5 +1,6 @@
 {
     "name": "rehananwar/gifty-tripletex",
+    "type": "library",
     "description": "",
     "keywords": [
         "swagger",
